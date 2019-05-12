@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include"Global_Parameters.h"
 #define TNOCHAR 128  /* Total Number of characters is 128: 0 - 127 */
 
 int main(void)
